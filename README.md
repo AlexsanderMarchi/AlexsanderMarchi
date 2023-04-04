@@ -3,7 +3,7 @@
 
 
 #### 🎓  I'm 22 years old, currently studying System Development at Senai São José. 
-#### 💡  My git involve projects that I a developted at class and in my free time.
+#### 💡  My git involves projects that I a developted at class and in my free time.
 #### 📖  I'm studying nowadays: Data base, React, React Native, JavaScript, TypeScript, HTML5, CSS3, C++ 
 
 <br>
@@ -12,14 +12,12 @@
 
 <a href="https://github.com/AlexsanderMarchi/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a> <a href="https://github.com/AlexsanderMarchi/React-Native"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </a> <a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a> <a href="https://github.com/AlexsanderMarchi/JavaScript"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a> <a href="https://github.com/AlexsanderMarchi/HTML-CSS"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://github.com/AlexsanderMarchi/HTML-CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> 
 
+## 🤝🏻 Contact:
 
+<a href="https://www.linkedin.com/in/alexsander-marchi-zunino-226332170/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:alexsandermarchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/alex_marchz"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://github.com/AlexsanderMarchi/JavaScript">
 
 ## 🎮 Games Developed in Class:
 <a href="https://github.com/AlexsanderMarchi/JogoDaCobrinha"><img alt="Snake Game" src="./assets/SnakeGame.png" align="left"  width='380'/></a>
 <a href="https://github.com/AlexRuan00/pig-bomb"><img alt="Pig Bomb" src="./assets/PigGame.png" align="right"  width='380'/></a>
 
-<br>
 
-## 🤝🏻 Contact:
-
-<a href="https://www.linkedin.com/in/alexsander-marchi-zunino-226332170/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:alexsandermarchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/alex_marchz"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://github.com/AlexsanderMarchi/JavaScript">
