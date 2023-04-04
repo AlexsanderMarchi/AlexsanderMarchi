@@ -8,13 +8,6 @@
 
 <br>
 
-## 🎮 Games Developed in Class:
-<a href="https://github.com/AlexsanderMarchi/JogoDaCobrinha"><img alt="Snake Game" src="./assets/SnakeGame.png" align="left"  width='340'/></a>
-<a href="https://github.com/AlexRuan00/pig-bomb"><img alt="Pig Bomb" src="./assets/PigGame.png" align="right"  width='340'/></a>
-
-
-<br>
-
 <h2 align="center" href="#clipboard-about"> 🛠 My abilities: <h2>
 
 <a href="https://github.com/AlexsanderMarchi/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>  
@@ -24,3 +17,8 @@
 <a href="https://github.com/AlexsanderMarchi/HTML-CSS"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> 
 <a href="https://github.com/AlexsanderMarchi/HTML-CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> 
 
+<br>
+
+## 🎮 Games Developed in Class:
+<a href="https://github.com/AlexsanderMarchi/JogoDaCobrinha"><img alt="Snake Game" src="./assets/SnakeGame.png" align="left"  width='340'/></a>
+<a href="https://github.com/AlexRuan00/pig-bomb"><img alt="Pig Bomb" src="./assets/PigGame.png" align="right"  width='340'/></a>
