@@ -20,6 +20,6 @@
 
 ## 🎮 Games Developed in Class:
 <a href="https://github.com/AlexsanderMarchi/JogoDaCobrinha"><img alt="Snake Game" src="./assets/SnakeGame.png" align="left"  width='380'/></a>
-<a href="https://github.com/AlexRuan00/pig-bomb"><img alt="Pig Bomb" src="./assets/PigGame.png" align="right"  width='380'/></a>
+<a href="https://github.com/AlexRuan00/pig-bomb"><img alt="Pig Bomb" src="./assets/PigGame.png" align="center"  width='380'/></a>
 
 
