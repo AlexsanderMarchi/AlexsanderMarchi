@@ -1,6 +1,6 @@
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/> 
-<h1 align="center" href="#clipboard-about">  Hi there, My name is Alexsander Marchi Zunino 👋 </h1> 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="right"/>
+
+<h1 align="center" href="#clipboard-about"> <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/>  Hi there, My name is Alexsander Marchi Zunino <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="right"/></h1> 
+
 
 #### I'm 22 years old, currently studying Sytem Development at Senai São José. 
 #### My git involve projects that I a developted at class and in my free time.
