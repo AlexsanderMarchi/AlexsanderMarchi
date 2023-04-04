@@ -2,11 +2,10 @@
 <h1 align="center" href="#clipboard-about"> <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/>  Hi there, My name is Alexsander Marchi Zunino <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="right"/></h1> 
 
 
-🎓 &nbsp; I'm 22 years old, currently studying Sytem Development at Senai São José. 
-<br>
-💡 &nbsp; My git involve projects that I a developted at class and in my free time.
-<br>
-📖 &nbsp; I'm studying nowadays: Data base, React, React Native, JavaScript, TypeScript, HTML5, CSS3, C++ 
+#### 🎓  I'm 22 years old, currently studying Sytem Development at Senai São José. 
+#### 💡  My git involve projects that I a developted at class and in my free time.
+#### 📖  I'm studying nowadays: Data base, React, React Native, JavaScript, TypeScript, HTML5, CSS3, C++ 
+
 <br>
 
 ## 🎮 Games Developed in Class:
@@ -16,7 +15,7 @@
 
 <br>
 
-## 🛠 My abilities:
+<h2 align="center" href="#clipboard-about"> 🛠 My abilities: <h2>
 
 <a href="https://github.com/AlexsanderMarchi/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>  
 <a href="https://github.com/AlexsanderMarchi/React-Native"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </a> 
