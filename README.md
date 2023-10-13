@@ -15,11 +15,3 @@
 ## 🤝🏻 Contact:
 
 <a href="https://www.linkedin.com/in/alexsander-marchi-zunino-226332170/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:alexsandermarchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/alex_marchz"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://github.com/AlexsanderMarchi/JavaScript">
-
-<br>
-
-## 🎮 Games Developed in Class:
-<a href="https://github.com/AlexsanderMarchi/JogoDaCobrinha"><img alt="Snake Game" src="./assets/SnakeGame.png" align="left"  width='380'/></a>
-<a href="https://github.com/AlexRuan00/pig-bomb"><img alt="Pig Bomb" src="./assets/PigGame.png" align="center"  width='380'/></a>
-
-
