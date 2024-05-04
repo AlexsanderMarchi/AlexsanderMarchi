@@ -9,8 +9,7 @@
 <br>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AlexsanderMarchi&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-omega-green.vercel.app/api/top-langs/?username=AlexsanderMarchi&show_icons=true&theme=radical&layout=compact" />
+![AlexsanderMarchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsanderMarchi&show_icons=true&theme=onedark)
  </div>
  <br>
 <h2 align="left" href="#clipboard-about"> 🛠 My abilities: <h2>
