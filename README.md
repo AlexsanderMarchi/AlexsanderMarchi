@@ -9,7 +9,7 @@
 <br>
 
 <div  align="center" style="margin-bottom:100px">
-![AlexsanderMarchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsanderMarchi&show_icons=true&theme=onedark)
+<img width=40% align="center" src="https://github-readme-stats-omega-green.vercel.app/api/top-langs/?username=AlexsanderMarchi&show_icons=true&theme=radical&layout=compact" />
  </div>
  <br>
 <h2 align="left" href="#clipboard-about"> 🛠 My abilities: <h2>
