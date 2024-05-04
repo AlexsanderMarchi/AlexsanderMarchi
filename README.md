@@ -15,9 +15,9 @@
 
 ## 🤝🏻 Contact:
 
- <div  align="left" width=40% style="margin-bottom:100px">
+ <div style="display: inline-block; width: 45%;">
 <a href="https://www.linkedin.com/in/alexsander-marchi-zunino-226332170/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:alexsandermarchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/alex_marchz"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://github.com/AlexsanderMarchi/JavaScript"></div>
 
-<div  align="right" width=40%  style="margin-bottom:100px">
+<div style="display: inline-block; width: 45%;">
 <img width=40% align="center" src="https://github-readme-stats-omega-green.vercel.app/api/top-langs/?username=AlexsanderMarchi&show_icons=true&theme=radical&layout=compact" />
  </div>
