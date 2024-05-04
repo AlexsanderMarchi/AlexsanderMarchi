@@ -8,7 +8,7 @@
 #### 👨‍💻  You can see my Portfolio Website clicking [here](https://portfolio-orpin-delta-26.vercel.app/).
 <br>
 
-<div  align="center" style="margin-bottom:100px">
+<div  align="right" style="margin-bottom:100px">
 <img width=40% align="center" src="https://github-readme-stats-omega-green.vercel.app/api/top-langs/?username=AlexsanderMarchi&show_icons=true&theme=radical&layout=compact" />
  </div>
  <br>
