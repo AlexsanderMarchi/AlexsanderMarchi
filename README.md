@@ -20,5 +20,4 @@
 
 <div>
 <img width=40% class="output" src="https://github-readme-stats.vercel.app/api?username=AlexsanderMarchi&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-<img width=40% align="center" src="https://github-readme-stats-omega-green.vercel.app/api/top-langs/?username=AlexsanderMarchi&show_icons=true&theme=radical&layout=compact" />
  </div>
