@@ -20,5 +20,5 @@
 
 <div>
 <img width=40% class="output" src="https://github-readme-stats.vercel.app/api?username=AlexsanderMarchi&amp;theme=nightowl&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+ <img width=40% class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsanderMarchi&layout=donut" alt="github stats">
  </div>
