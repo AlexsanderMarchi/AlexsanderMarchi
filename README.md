@@ -8,6 +8,10 @@
 #### 👨‍💻  You can see my Portfolio Website clicking [here](https://portfolio-orpin-delta-26.vercel.app/).
 <br>
 
+<div align="center">
+  <img src="https://pokemon-status.vercel.app/?pokemon=charmander&user=AlexsanderMarchi&theme=charmander">
+</div>
+
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AlexsanderMarchi&theme=prussian&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-omega-green.vercel.app/api/top-langs/?username=AlexsanderMarchi&show_icons=true&theme=prussian&layout=compact" />
