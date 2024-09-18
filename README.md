@@ -9,7 +9,7 @@
 <br>
 
  <div align="center">
-  <img src="https://pokemon-status.vercel.app/?pokemon=charmander&user=AlexsanderMarchi&theme=charmander">
+  <img src="https://pokemon-status.vercel.app/?pokemon=charmander&user=AlexsanderMarchi&theme=marshadow">
 </div>
 
 <h2 align="left" href="#clipboard-about"> 🛠 My abilities: <h2>
