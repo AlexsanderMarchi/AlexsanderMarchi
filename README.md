@@ -8,11 +8,6 @@
 #### 👨‍💻  You can see my Portfolio Website clicking [here](https://portfolio-orpin-delta-26.vercel.app/).
 <br>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AlexsanderMarchi&theme=prussian&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-omega-green.vercel.app/api/top-langs/?username=AlexsanderMarchi&show_icons=true&theme=prussian&layout=compact" />
- </div>
-
  <div align="center">
   <img src="https://pokemon-status.vercel.app/?pokemon=charmander&user=AlexsanderMarchi&theme=charmander">
 </div>
@@ -23,5 +18,9 @@
 
 ## 🤝🏻 Contact:
 
- 
 <a href="https://www.linkedin.com/in/alexsander-marchi-zunino-226332170/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:alexsandermarchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/alex_marchz"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://github.com/AlexsanderMarchi/JavaScript">
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AlexsanderMarchi&theme=prussian&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-omega-green.vercel.app/api/top-langs/?username=AlexsanderMarchi&show_icons=true&theme=prussian&layout=compact" />
+ </div>
