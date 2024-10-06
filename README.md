@@ -8,7 +8,7 @@
 #### 📖  I'm studying nowadays: SQL Data base, Java, Python, React, React Native, JavaScript, TypeScript, HTML5, CSS3, C++. 
 #### 👨‍💻  You can see my Portfolio Website clicking [here](https://portfolio-orpin-delta-26.vercel.app/).
 <br>
- <div  align="center" style="margin-bottom:100px">
+ <div  align="left" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AlexsanderMarchi&theme=prussian&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-omega-green.vercel.app/api/top-langs/?username=AlexsanderMarchi&show_icons=true&theme=prussian&layout=compact" />
  </div>
