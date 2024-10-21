@@ -22,5 +22,5 @@
 <a href="https://www.linkedin.com/in/alexsander-marchi-zunino-226332170/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:alexsandermarchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/alex_marchz"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://github.com/AlexsanderMarchi/JavaScript">
 
 <div align="center">
-  <img src="https://pokemon-status.vercel.app/?pokemon=charmander&user=AlexsanderMarchi&theme=marshadow">
+  <img src="https://pokemon-status.vercel.app/?pokemon=mewtwo&user=AlexsanderMarchi&theme=marshadow">
 </div>
