@@ -5,7 +5,7 @@
 #### 🎓  I'm 23 years old, I'm a Software Engineer and I'm pursuing my bachelor's degree in Analysis and Systems Development at Estacio University. 
 #### 💼 Currently working at Radar Saúde as a System Development Intern.
 #### 💡  My git involves projects that I a developted at class, jobs and in my study time.
-#### 📖  I'm studying nowadays: SQL Data base, Java, Python, React, React Native, JavaScript, TypeScript, HTML5, CSS3, C++. 
+#### 📖  I'm studying nowadays: SQL Data base, Java, Spring Boot, Python, React, React Native, JavaScript, TypeScript, HTML5, CSS3, C++. 
 #### 👨‍💻  You can see my Portfolio Website clicking [here](https://portfolio-orpin-delta-26.vercel.app/).
 <br>
  <div  align="left" style="margin-bottom:100px">
