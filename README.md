@@ -2,8 +2,8 @@
 <h1 align="center" href="#clipboard-about"> <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/>  Hi there, My name is Alexsander Marchi Zunino <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="right"/></h1> 
 
 
-#### 🎓  I'm 23 years old, I'm a Software Engineer and I'm pursuing my bachelor's degree in Analysis and Systems Development at Estacio University. 
-#### 💼 Currently working at Radar Saúde as a System Development Intern.
+#### 🎓  I'm 24 years old, I'm a Software Engineer and I'm pursuing my bachelor's degree in Analysis and Systems Development at Estacio University. 
+#### 💼 Currently working at Radar Saúde as Junior Developer.
 #### 💡  My git involves projects that I a developted at class, jobs and in my study time.
 #### 📖  I'm studying nowadays: SQL Data base, Java, Spring Boot, Python, React, React Native, JavaScript, TypeScript, HTML5, CSS3, C++. 
 #### 👨‍💻  You can see my Portfolio Website clicking [here](https://portfolio-orpin-delta-26.vercel.app/).
